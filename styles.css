@@ -1,0 +1,51 @@
+/*
+Dusty (dark) - #96858F
+Lavendar (#6D7993)
+Overcast (#9099A2)
+Paper (#D5D5D5)
+*/
+
+p, li{
+        color: #6D7993;
+}
+
+main {
+    font-family: sans-serif;
+    background-color: #D5D5D5;
+    align-content: center;
+}
+
+h1, h2, h3, h4 {
+    font-family: sans-serif;
+    font-weight: 50;
+    color: #6D7993;
+
+}
+.image {
+    width: auto;
+    height: 225px;
+    border-radius: 50%;
+    float: left;
+    margin: 0 25px 25px 10px;
+    border-color: #96858F;
+    border-width: 5px;
+    border-style: solid;
+}
+article {
+    font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+footer {
+	text-align: center;
+	}
+
+a:link, footer a:visited {
+	margin-right: 20px;
+    color: #96858F;
+	}
+
+.icon{
+    width: 25px;
+    height: 25px;
+}
