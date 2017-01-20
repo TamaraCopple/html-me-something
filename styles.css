@@ -21,6 +21,13 @@ h1, h2, h3, h4 {
     color: #6D7993;
 
 }
+#art {
+    border-style:ridge;
+    margin: 15px;
+    padding: 25px;
+    background-color: #6D7993;
+    color:#D5D5D5
+}
 .image {
     width: auto;
     height: 225px;
